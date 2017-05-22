@@ -1,0 +1,27 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  profile: MyString
+  age_group: MyString
+  flag1: MyString
+  flag2: MyString
+  flag3: MyString
+  flag4: MyString
+  flag5: MyString
+  flag6: MyString
+  flag7: MyString
+  admin: MyString
+  auth_level: MyString
+
+two:
+  profile: MyString
+  age_group: MyString
+  flag1: MyString
+  flag2: MyString
+  flag3: MyString
+  flag4: MyString
+  flag5: MyString
+  flag6: MyString
+  flag7: MyString
+  admin: MyString
+  auth_level: MyString
